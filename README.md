@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o Matiehus
+# 👋 Oi, eu sou o Matheus
 
 🎓 Estudante de Ciência da Computação.  
 📁 Uso este perfil para guardar meus estudos e exercícios de programação.
